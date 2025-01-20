@@ -1,0 +1,21 @@
+[2024-04-09 08:55:40] [info] Start Program:
+Path:"D:\OOP\Lab4-5\x64\Debug\Lab4-5.exe"
+Arguments:
+Working directory: "D:\OOP\Lab4-5\"
+Modules: Selected: D:\OOP\Lab4-5\x64\Debug\Lab4-5.exe Excluded: 
+Sources: Selected: D:\OOP\Lab4-5 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\jolde\AppData\Local\Temp\vwwmzinh.5vn 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-09 08:55:40] [info] Module: D:\OOP\Lab4-5\x64\Debug\Lab4-5.exe is selected because it matches selected pattern: D:\OOP\Lab4-5\x64\Debug\Lab4-5.exe
+[2024-04-09 08:55:52] [info] ----------------------------------------------------
+[2024-04-09 08:55:52] [info] Coverage binary generated in file: C:\Users\jolde\AppData\Local\Temp\v01lpg2f.o31
+[2024-04-09 08:55:52] [info] ----------------------------------------------------
