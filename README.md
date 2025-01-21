@@ -43,8 +43,5 @@ Unit tests cover all major functionalities such as adding/removing movies, updat
 - Modular design using object-oriented programming principles.
 - Flexible data storage options with different file writers.
 - Error handling with custom exceptions for robust applications.
-- Writing unit tests for validating functionality and ensuring code reliability.
-5. Integrate an external API (e.g., IMDb) to fetch movie details automatically.
-
-This project combines practical software development concepts with C++ programming techniques to create a functional movie database management system that is both robust and extensible!
+- Writing tests for validating functionality and ensuring code reliability.
 
