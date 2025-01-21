@@ -1,8 +1,6 @@
 # Movie-Watchlist
 This project is a C++ application for managing a movie database, featuring a command-line interface, file handling for data persistence, and comprehensive testing to ensure robust functionality. It provides a system for managing movies and user watchlists while showcasing key programming concepts such as object-oriented design, file handling, and testing. Below is a detailed description of its components and features.
 
----
-
 ### **Key Features**
 
 #### **Command-Line Interface**  
@@ -23,8 +21,6 @@ Comprehensive testing is implemented to validate core functionalities such as ad
 #### **Object-Oriented Design**  
 The program is modular, with separate classes for movies, the movie database, file writers, and the user interface. This structure promotes code reusability, scalability, and maintainability.
 
----
-
 ### **How It Works**
 
 #### **Initialization**  
@@ -42,8 +38,6 @@ The application catches exceptions during invalid operations (e.g., duplicate en
 #### **Testing**  
 Unit tests cover all major functionalities such as adding/removing movies, updating details, managing watchlists, and exporting data. This ensures that the application behaves as expected across different use cases.
 
----
-
 ### **This project demonstrates key programming concepts such as:**
 
 - Modular design using object-oriented programming principles.
@@ -51,8 +45,6 @@ Unit tests cover all major functionalities such as adding/removing movies, updat
 - Error handling with custom exceptions for robust applications.
 - Writing unit tests for validating functionality and ensuring code reliability.
 5. Integrate an external API (e.g., IMDb) to fetch movie details automatically.
-
----
 
 This project combines practical software development concepts with C++ programming techniques to create a functional movie database management system that is both robust and extensible!
 
